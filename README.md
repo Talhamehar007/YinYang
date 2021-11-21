@@ -1,2 +1,2 @@
 # YinYang
-Cool YinYang ANimation in  HTML CSS
+Cool YinYang Animation in  HTML CSS
